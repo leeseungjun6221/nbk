@@ -1,0 +1,28 @@
+<svg width="295" height="294" viewBox="0 0 295 294" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_2779_176417" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="295" height="294">
+<rect x="0.5" y="0.5" width="294" height="293" rx="19.5" fill="#DDDDDD" stroke="#F0F5F9"/>
+</mask>
+<g mask="url(#mask0_2779_176417)">
+<path d="M172.5 313.5V138.726L213 106.908L253.5 138.726V313.5H172.5Z" stroke="#EEEEEE" stroke-width="3"/>
+<path d="M107 307V209.524L131 189L155 209.524V307H107Z" fill="#EEEEEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 138 222)" fill="white"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 138 232)" fill="white"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 128 222)" fill="white"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 128 232)" fill="white"/>
+<path d="M159 311V170.569L194 141L229 170.569V311H159Z" fill="#FFE8B2"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 196 187)" fill="white"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 206 187)" fill="white"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 196 207)" fill="white"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 206 207)" fill="white"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 196 197)" fill="white"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 206 197)" fill="white"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 186 187)" fill="white"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 186 207)" fill="white"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 186 197)" fill="white"/>
+<rect x="62" y="249" width="4" height="46" fill="#EEEEEE"/>
+<circle cx="64" cy="227" r="24" fill="#EEEEEE"/>
+<circle cx="227.5" cy="103.5" r="27.5" fill="#FFB300"/>
+<path d="M231.75 98.6582H234.722C234.625 95.3646 231.778 93 227.694 93C223.625 93 220.542 95.3365 220.528 98.8552C220.542 101.698 222.542 103.359 225.778 104.26L228.167 104.908C230.292 105.485 231.958 106.202 231.972 107.976C231.958 109.975 230.097 111.284 227.528 111.298C225.181 111.284 223.236 110.228 223.056 108.004H220C220.194 111.72 223.028 114 227.528 114C232.278 114 234.986 111.481 235 108.032C234.986 104.345 231.764 102.923 229.194 102.29L227.25 101.755C225.653 101.375 223.583 100.615 223.583 98.6863C223.597 96.9551 225.153 95.6743 227.611 95.6743C229.917 95.6743 231.556 96.758 231.75 98.6582Z" fill="white"/>
+<rect x="226" y="91" width="3" height="25" fill="white"/>
+</g>
+</svg>

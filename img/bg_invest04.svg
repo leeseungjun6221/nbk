@@ -1,0 +1,41 @@
+<svg width="295" height="294" viewBox="0 0 295 294" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_2779_176300" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="295" height="294">
+<rect x="0.5" y="0.5" width="294" height="293" rx="19.5" fill="#DDDDDD" stroke="#F0F5F9"/>
+</mask>
+<g mask="url(#mask0_2779_176300)">
+<path d="M120 199L106.147 218.997L87.403 204.998L61.0842 241L42 227.004" stroke="#EEEEEE" stroke-width="3"/>
+<circle cx="41.5" cy="226.5" r="3" fill="white" stroke="#EEEEEE" stroke-width="3"/>
+<circle cx="61.5" cy="240.5" r="3" fill="white" stroke="#EEEEEE" stroke-width="3"/>
+<circle cx="87.5" cy="205.5" r="3" fill="white" stroke="#EEEEEE" stroke-width="3"/>
+<circle cx="118.63" cy="211.222" r="2.72222" fill="white" stroke="#EEEEEE" stroke-width="3"/>
+<circle cx="105.5" cy="218.5" r="3" fill="white" stroke="#EEEEEE" stroke-width="3"/>
+<path d="M233.5 300.5V116.866L165.5 77.5983V300.5H233.5Z" stroke="#EEEEEE" stroke-width="3"/>
+<path d="M113 150.304L177 119V299H113V150.304Z" fill="#EEEEEE"/>
+<rect x="126" y="162" width="4" height="4" fill="white"/>
+<rect x="126" y="171" width="4" height="4" fill="white"/>
+<rect x="126" y="181" width="4" height="4" fill="white"/>
+<rect x="126" y="191" width="4" height="4" fill="white"/>
+<rect x="136" y="162" width="4" height="4" fill="white"/>
+<rect x="136" y="171" width="4" height="4" fill="white"/>
+<path d="M215 297V177.833L155 148.218V297H215Z" fill="#EFE4D3" stroke="white" stroke-width="4"/>
+<rect x="173" y="198" width="4" height="4" fill="white"/>
+<rect x="173" y="188" width="4" height="4" fill="white"/>
+<rect x="173" y="207" width="4" height="4" fill="white"/>
+<rect x="173" y="217" width="4" height="4" fill="white"/>
+<rect x="173" y="227" width="4" height="4" fill="white"/>
+<rect x="183" y="198" width="4" height="4" fill="white"/>
+<rect x="183" y="207" width="4" height="4" fill="white"/>
+<rect x="183" y="217" width="4" height="4" fill="white"/>
+<rect x="183" y="227" width="4" height="4" fill="white"/>
+<rect x="193" y="237" width="4" height="4" fill="white"/>
+<rect x="193" y="207" width="4" height="4" fill="white"/>
+<rect x="193" y="217" width="4" height="4" fill="white"/>
+<rect x="193" y="198" width="4" height="4" fill="white"/>
+<rect x="205" y="96" width="50" height="26" fill="#C2A474"/>
+<rect width="50" height="9" transform="matrix(1 0 0 -1 205 93)" fill="#C2A474"/>
+<mask id="path-32-inside-1_2779_176300" fill="white">
+<rect x="219" y="76" width="22" height="12" rx="3"/>
+</mask>
+<rect x="219" y="76" width="22" height="12" rx="3" stroke="#C2A474" stroke-width="8" mask="url(#path-32-inside-1_2779_176300)"/>
+</g>
+</svg>

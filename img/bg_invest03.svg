@@ -1,0 +1,25 @@
+<svg width="295" height="294" viewBox="0 0 295 294" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_2779_176348" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="295" height="294">
+<rect x="0.5" y="0.5" width="294" height="293" rx="19.5" fill="#DDDDDD" stroke="#F0F5F9"/>
+</mask>
+<g mask="url(#mask0_2779_176348)">
+<mask id="path-2-outside-1_2779_176348" maskUnits="userSpaceOnUse" x="147" y="113.109" width="92" height="184" fill="black">
+<rect fill="white" x="147" y="113.109" width="92" height="184"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M156.613 116.109H150V121.38H156.613V293.996H229.383V121.38H236V116.109H229.383H156.613Z"/>
+</mask>
+<path d="M150 116.109V113.109H147V116.109H150ZM150 121.38H147V124.38H150V121.38ZM156.613 121.38H159.613V118.38H156.613V121.38ZM156.613 293.996H153.613V296.996H156.613V293.996ZM229.383 293.996V296.996H232.383V293.996H229.383ZM229.383 121.38V118.38H226.383V121.38H229.383ZM236 121.38V124.38H239V121.38H236ZM236 116.109H239V113.109H236V116.109ZM150 119.109H156.613V113.109H150V119.109ZM153 121.38V116.109H147V121.38H153ZM156.613 118.38H150V124.38H156.613V118.38ZM159.613 293.996V121.38H153.613V293.996H159.613ZM229.383 290.996H156.613V296.996H229.383V290.996ZM226.383 121.38V293.996H232.383V121.38H226.383ZM236 118.38H229.383V124.38H236V118.38ZM233 116.109V121.38H239V116.109H233ZM229.383 119.109H236V113.109H229.383V119.109ZM156.613 119.109H229.383V113.109H156.613V119.109Z" fill="#EEEEEE" mask="url(#path-2-outside-1_2779_176348)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M204 157H126V163H132V294H198V163H204V157Z" fill="#CEE0FF"/>
+<rect x="202" y="205" width="53" height="6" fill="#EEEEEE"/>
+<rect x="132" y="194" width="66" height="3" fill="white"/>
+<rect x="132" y="232" width="66" height="3" fill="white"/>
+<rect x="132" y="270" width="66" height="3" fill="white"/>
+<rect width="48" height="83" transform="matrix(-1 0 0 1 250 211)" fill="#EEEEEE"/>
+<rect x="202" y="246" width="48" height="3" fill="white"/>
+<rect x="202" y="284" width="48" height="3" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M250.995 100.448L235 75L219.005 100.448C216.49 103.849 215 108.078 215 112.661C215 123.894 223.954 133 235 133C246.046 133 255 123.894 255 112.661C255 108.078 253.51 103.849 250.995 100.448Z" fill="#005CAA"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 245 109)" fill="white"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 245 118)" fill="white"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 235 118)" fill="white"/>
+<path d="M85 252L120 294H50L85 252Z" fill="#EEEEEE"/>
+</g>
+</svg>
