@@ -236,6 +236,23 @@
             cursor: pointer;
             color: #C6C6C6;
         }
+
+        .ret-all {
+            position: relative;
+        }
+
+        .ret-bu {
+            position: absolute;
+            left: 120px;
+            top: 33px;
+            z-index: 1000;
+            cursor: pointer;
+        }
+
+        .ret-re {
+            position: absolute;
+            z-index: 999;
+        }
     </style>
 </head>
 
@@ -244,7 +261,7 @@
         <nav id="navbar-example2" style="justify-content:center" class="navbar navbar-light bg-white fixed-top">
             <a class="navbar-brand" href="#"></a>
             <ul class="nav nav-pills">
-                <li class="nav-item" >
+                <li class="nav-item">
                     <a class="nav-link" href="#Carousel">홈</a>
                 </li>
                 <li class="nav-item">
@@ -495,15 +512,19 @@
                     <div class="row">
                         <h1 class="w-100 text-center font-weight-bold text-indigo" style='margin-top: 50px;' id="video">
                             농협 소개 영상 </h1>
-                        <div class="col-12 ">
+                        <div class="col-8 ">
                             <div class="embed-responsive embed-responsive-16by9 mb-5" style='margin-top: 50px;'>
-                                <iframe width="560" height="315"
-                                    src="https://www.youtube.com/embed/9-Jn3HUg2Go?autoplay=1&mute=1&loop=1&playlist=9-Jn3HUg2Go"
+                                <iframe id="player"
+                                    src="https://www.youtube.com/embed/9-Jn3HUg2Go?autoplay=0&mute=1&loop=1&playlist=9-Jn3HUg2Go&start=10&end=30&enablejsapi=1"
                                     title="YouTube video player" frameborder="0"
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                     allowfullscreen></iframe>
                             </div>
 
+                        </div>
+                        <div class="col-4 ret-all">
+                            <img id="toggleButton" src="img/re2.png" alt="" class="img-fluid ret-bu"> <!-- 버튼 -->
+                            <img src="img/re.png" alt="" class="ret-re img-fluid">
                         </div>
                     </div>
                 </div>
@@ -626,7 +647,7 @@
             integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
             crossorigin="anonymous"></script>
 
-
+        <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
         <script>
 
             $('body').scrollspy({ target: '#navbar-example2', offset: 107 })
@@ -645,6 +666,27 @@
                 // })
 
             })
+
+
+
+        </script>
+
+        <script>
+            $(document).ready(function () {
+                let isPlaying = false;
+
+                $('#toggleButton').click(function () {
+                    const player = $("#player")[0].contentWindow;
+
+                    if (isPlaying) {
+                        player.postMessage('{"event":"command","func":"' + 'stopVideo' + '","args":""}', '*');
+                    } else {
+                        player.postMessage('{"event":"command","func":"' + 'playVideo' + '","args":""}', '*');
+                    }
+
+                    isPlaying = !isPlaying;
+                });
+            });
         </script>
 </body>
 
